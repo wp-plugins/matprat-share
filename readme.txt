@@ -1,5 +1,5 @@
 === Matprat ===
-Contributors: metronet, th0masb
+Contributors: metronet, th0masmb
 Tags: matprat, rss, feed
 Requires at least: 3.5
 Stable tag: 0.1
